@@ -15,7 +15,7 @@
 #              C to F conversion (get from Internet search)
 # Outputs(s):  Fahrenheit temperature number
 #
-
+# HERE IS DIFF to be verified in https://github.com/Aaron-SCC/FA19_STUFF/blob/master/NEW_FOLDER_DIR/second.py
 
 ##
 def main():
